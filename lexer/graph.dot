@@ -1,0 +1,4 @@
+graph G {
+  NUM -> OUT [label=other]
+  OUT -> S
+}

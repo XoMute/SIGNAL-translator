@@ -1,0 +1,6 @@
+(*Some*)PROGRAM(*Weird*)TEST;(*TEST*)
+VAR
+BEGIN
+END.
+(* Testing part 💩 *)
+

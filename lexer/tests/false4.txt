@@ -1,0 +1,9 @@
+(* Identifier with lowercase symbol *)
+PROGRAM TEST;
+VAR VARn: INTEGER;
+BEGIN
+  WHILE 1 <> VARN
+  DO
+  ENDWHILE;
+END.
+

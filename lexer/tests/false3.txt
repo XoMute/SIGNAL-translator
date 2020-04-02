@@ -1,0 +1,9 @@
+(* Unallowed chars *)
+PROGRAM TEST;
+VAR VARN: INTEGER;
+BEGIN (* start of a program *)'
+  WHILE 1 <> VARN
+  DO
+  ENDWHILE;
+END.
+

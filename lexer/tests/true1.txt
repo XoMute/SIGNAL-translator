@@ -1,0 +1,18 @@
+PROGRAM TEST;
+VAR VAR1:INTEGER;
+    VAR2: FLOAT      ;
+    VARN: INTEGER;
+BEGIN (* start of a program *)
+  WHILE (* some random comment ************) 1 <> VARN
+  DO (* multiline comment
+      *
+      *
+      *
+
+      *)
+    WHILE VAR1 >= VAR2
+    DO
+
+    ENDWHILE;
+  ENDWHILE;
+END.
